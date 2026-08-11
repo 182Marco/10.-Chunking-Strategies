@@ -1,0 +1,47 @@
+MANUALE D'USO
+LumaDesk LD-200 e LD-210 — scrivanie regolabili a doppio motore
+Lumen S.r.l. — Edizione luglio 2026
+
+CONTENUTO DELLA CONFEZIONE
+
+Nella confezione trovi il piano in bambù certificato FSC, il telaio in acciaio con le due colonne motorizzate, la traversa regolabile, la centralina con display e i suoi quattro tasti, l'alimentatore, il passacavi adesivo e la busta della viteria con le quattro viti M8 del piano, le sedici viti autofilettanti e la chiave esagonale. Controlla il contenuto prima di iniziare: se manca qualcosa, il kit viteria si richiede gratuitamente dall'area personale.
+
+MONTAGGIO
+
+Il montaggio richiede circa 30 minuti e un cacciavite a croce oltre alla chiave inclusa; il piano da 140 centimetri si maneggia meglio in due. Lavora su una superficie morbida per non graffiare il bambù: prima si fissa la traversa alle colonne, poi le colonne al piano con le viti M8, infine i piedi. Da ultimo collega i due cavi motore e l'alimentazione alla centralina, e raddrizza la scrivania solo a viti tutte serrate. Se preferisci il montaggio a domicilio, il servizio SRV-01 porta un tecnico alla postazione che indichi.
+
+PRIMA ACCENSIONE E CALIBRAZIONE
+
+Alla prima accensione la scrivania deve imparare il suo punto zero. Tieni premuto il tasto - finché il piano non raggiunge il punto più basso e il display mostra RST: al rilascio la centralina è calibrata e il display torna a indicare l'altezza in centimetri. Ripeti questa procedura ogni volta che la scrivania viene scollegata dalla corrente o spostata in un'altra stanza.
+
+USO DELLA CENTRALINA
+
+I tasti + e - alzano e abbassano il piano; il movimento si ferma al rilascio. Tenendo premuto M per due secondi salvi la posizione corrente in una delle memorie M1-M4, che richiami poi con un tocco: l'altezza salvata compare sul display con la lettera della memoria. Il consiglio dell'ergonomo: salva in M1 l'altezza da seduto e in M2 quella in piedi, così il cambio di posizione diventa un gesto solo. La porta USB sul fianco della centralina ricarica telefono o cuffie a 5V/2A.
+
+FUNZIONI DI SICUREZZA
+
+L'anticollisione ferma e inverte il movimento quando il piano incontra un ostacolo, in salita come in discesa: di serie sulla LD-210, si attiva sulla LD-200 tenendo premuti + e - insieme per cinque secondi (il display mostra AC). La sensibilità ha tre livelli, regolabili dal menu della centralina. Con il blocco tastiera — tasto M premuto insieme a - per tre secondi — i tasti si disattivano e il display mostra LOC: utile con bambini in casa.
+
+MANUTENZIONE
+
+Il piano in bambù è trattato con olio naturale atossico: puliscilo con un panno morbido appena umido ed evita detergenti aggressivi e liquidi a contatto prolungato. Una volta l'anno puoi ravvivare la finitura con olio per legno di grado alimentare. Ogni sei mesi controlla il serraggio delle viti del telaio e la tenuta dei cavi; le colonne non vanno lubrificate: i motori sono sigillati e non richiedono manutenzione.
+
+CODICI DI ERRORE
+
+E01, sovraccarico: il piano ha superato la portata massima; togli peso dal piano e riprova dopo un minuto. E03, colonne disallineate: le due colonne si sono mosse a velocità diverse; esegui la calibrazione della prima accensione. E05, surriscaldamento: il motore ha lavorato troppo a lungo; lascia riposare la scrivania per 20 minuti, il codice sparisce da solo. E07, perdita di calibrazione: la centralina mostra questo codice dopo un'interruzione di corrente e il reset rapido non basta — scollega l'alimentazione per 30 secondi, ricollegala, poi tieni premuto - finché il piano non arriva al punto più basso e mantieni la pressione per altri 10 secondi, finché RST non lampeggia due volte: al rilascio la centralina è ricalibrata. E09, centralina che non comunica con i motori: controlla che i due cavi motore siano innestati a fondo; se il codice resta, la centralina va sostituita con il ricambio LM-200.
+
+SPECIFICHE TECNICHE
+
+Piano in bambù certificato FSC da 140x70 cm (LD-200) o 160x80 cm (LD-210), spessore 22 mm. Escursione in altezza da 71 a 119 cm, velocità di 38 mm al secondo, doppio motore sotto i 40 dB, portata massima 100 kg distribuiti. Alimentazione 220-240 V, consumo in standby sotto 0,1 W, porta USB 5V/2A. Peso totale 34 kg (LD-200) e 39 kg (LD-210).
+
+ASSISTENZA
+
+Per ogni richiesta tieni a portata di mano il numero d'ordine e il modello, che trovi sull'etichetta sotto il piano. Le foto del problema accorciano la diagnosi, soprattutto per i danni da trasporto, da segnalare entro 3 giorni dalla consegna. Il supporto risponde via email a supporto@lumen.example e in chat dal lunedì al venerdì; per i guasti in garanzia l'intervento viene organizzato dal nostro laboratorio.
+
+PROBLEMI SENZA CODICE DI ERRORE
+
+Se il piano oscilla alla massima altezza, ricontrolla il serraggio di tutte le viti del telaio e verifica che la traversa sia regolata sulla larghezza giusta: un leggero movimento oltre i 110 cm è normale, un dondolio marcato no. Se un motore fa un rumore metallico in discesa ma non in salita, interrompi l'uso e contatta l'assistenza: è il sintomo tipico di un ingranaggio usurato, coperto dalla garanzia di 5 anni sul motore. Se il display resta spento, prova un'altra presa e controlla l'innesto dell'alimentatore prima di aprire un ticket.
+
+SMALTIMENTO E SECONDA VITA
+
+La scrivania è progettata per essere smontata: piano, telaio ed elettronica si separano con la stessa chiave del montaggio. La parte elettronica si consegna nelle isole ecologiche come RAEE; il piano in bambù, privo di vernici sintetiche, può vivere una seconda vita come piano da lavoro. Con il programma Lumen Circular ritiriamo la tua vecchia scrivania alla consegna della nuova, a costo zero.

@@ -1,0 +1,49 @@
+GUIDA ALLO SMART WORKING
+Lumen S.r.l. — Persone & Organizzazione
+Edizione luglio 2026 — documento interno
+
+A CHI SI RIVOLGE
+
+Questa guida vale per tutte le persone Lumen con contratto a tempo indeterminato, o determinato di durata superiore a sei mesi, che abbiano superato il periodo di prova. Restano esclusi i ruoli che richiedono presenza fisica: magazzino, showroom e assistenza tecnica a domicilio. Per stage e apprendistati il lavoro da remoto va concordato caso per caso con il proprio tutor e con Persone & Organizzazione.
+
+QUANTE GIORNATE E COME SI PIANIFICANO
+
+Puoi lavorare da remoto fino a 3 giorni a settimana; per il team commerciale il limite è 2, per lasciare spazio alle visite in showroom con i clienti. Le giornate si pianificano sul portale HR entro il venerdì della settimana precedente e vanno approvate dal responsabile. Ogni team mantiene un giorno fisso di presenza comune in sede — l'ancora di team — deciso a inizio trimestre: in quel giorno lo smart working non si pianifica.
+
+LA POSTAZIONE DI CASA
+
+Lavorare bene da casa richiede una postazione vera: un piano stabile di almeno 100 cm, una sedia regolabile in altezza, luce naturale di lato allo schermo e una connessione da almeno 30 Mbps in download. Una webcam decente completa il quadro. Per aiutarti ad allestirla, Lumen riconosce un contributo una tantum di 250 euro per una sedia ergonomica o una scrivania regolabile (lo sconto dipendenti sul catalogo LumaDesk si cumula).
+
+La richiesta del contributo va presentata entro 60 giorni dall'attivazione dello smart working, caricando la ricevuta d'acquisto sul portale HR nella sezione Rimborsi. Oltre questa finestra il contributo decade e non è recuperabile negli anni successivi; il contributo è personale e non cedibile ai colleghi.
+
+STRUMENTI E ACCESSI
+
+La dotazione standard è il laptop aziendale: è l'unico dispositivo da cui accedere ai sistemi Lumen. La VPN è obbligatoria per gestionale, CRM e cartelle condivise; l'autenticazione a due fattori va attivata su tutti gli account entro il primo giorno di remoto. Se qualcosa non funziona apri un ticket IT dal portale: per i blocchi che impediscono di lavorare c'è il canale telefonico d'emergenza, attivo dalle 8:00 alle 19:00.
+
+SICUREZZA DELLE INFORMAZIONI
+
+Da casa valgono le stesse regole dell'ufficio, più qualche attenzione: niente reti Wi-Fi pubbliche senza VPN, schermo bloccato ogni volta che ti allontani, familiari e coinquilini non devono vedere dati di clienti. I documenti cartacei con dati personali non si stampano a casa; se proprio serve, si distruggono con cura e non finiscono nella raccolta indifferenziata. Le riunioni in cui si parla di dati sensibili si fanno con gli auricolari.
+
+SALUTE E POSTURA
+
+Alterna seduta e posizione in piedi durante la giornata: se hai una scrivania regolabile, cambia posizione almeno una volta l'ora (in Lumen lo chiamiamo ritmo 50-10: cinquanta minuti seduti, dieci in piedi). Ogni 20 minuti sposta lo sguardo dallo schermo per 20 secondi su qualcosa ad almeno 6 metri di distanza: gli occhi ringraziano. Le pause valgono anche da remoto: alzarsi dalla postazione non è tempo rubato al lavoro.
+
+REPERIBILITÀ E COMUNICAZIONE
+
+Nelle giornate da remoto vale la fascia di reperibilità comune: 9:30-12:30 e 14:30-17:00, con il calendario aggiornato e lo stato visibile sui canali interni. Fuori fascia gestisci il tuo tempo liberamente, nel rispetto delle scadenze del team. Vale il diritto alla disconnessione: dopo le 19:00 e nel weekend nessuno è tenuto a rispondere a messaggi ed email, e gli invii programmati vanno evitati in quegli orari.
+
+LAVORARE DA FUORI CITTÀ E DALL'ESTERO
+
+Il remoto ordinario si intende dall'Italia. Puoi lavorare dall'estero per un massimo di 2 settimane l'anno, previa autorizzazione di Persone & Organizzazione con almeno 30 giorni di anticipo, e solo da Paesi dell'Unione Europea: contano fisco, assicurazione e protezione dei dati, non solo il fuso orario.
+
+DOMANDE FREQUENTI
+
+Chi paga la linea internet? Resta a carico tuo, come la corrente elettrica: fa parte dei requisiti visti sopra. Posso spostare la mia giornata d'ancora? Solo per la settimana in corso e con l'accordo di tutto il team. Le giornate remote non godute si accumulano? No: non si trasferiscono alla settimana successiva.
+
+COSA NON CAMBIA
+
+Lo smart working non tocca inquadramento, retribuzione, ferie e permessi: le giornate da remoto sono giornate di lavoro a tutti gli effetti, buono pasto compreso. Gli obiettivi si concordano e si misurano come sempre nei colloqui trimestrali: conta il risultato, non da dove lo raggiungi. Anche la formazione obbligatoria segue il calendario ordinario, in presenza o a distanza a seconda del corso.
+
+I PRIMI MESI IN LUMEN
+
+Per chi è appena arrivato l'ingresso in smart working è graduale: nel primo mese si lavora in sede, per conoscere il team e i processi dal vivo; dal secondo mese si accede al remoto con il calendario ordinario. Il buddy assegnato all'onboarding resta il riferimento anche a distanza: la domanda veloce che in ufficio faresti alla scrivania accanto, falla in chat senza timore di disturbare.

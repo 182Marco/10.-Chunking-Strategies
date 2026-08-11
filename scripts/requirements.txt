@@ -1,0 +1,9 @@
+# L22 — Chunking Strategies
+python-dotenv
+numpy
+openai
+chromadb
+
+# Stasera il backend degli embedding è "openai" per tutti: la collection si
+# ricrea a ogni giro, quindi non c'è nessun corpus locale da rispettare.
+# sentence-transformers NON serve.
